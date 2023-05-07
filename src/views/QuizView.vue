@@ -40,7 +40,21 @@ const onOptionSelect = (isCorrect) => {
 </script>
 
 <template>
-	<div class="py-10">
+	<div
+		v-motion
+		:initial="{
+			opacity: 0,
+			y: 100,
+		}"
+		:enter="{
+			opacity: 1,
+			y: 0,
+		}"
+		:leave="{
+			y: -100,
+			opacity: 0,
+		}"
+		class="py-10">
 		<header>
 			<h4 class="text-xl mb-3">Question {{ questionStatus }}</h4>
 			<div class="h-[36px] w-[200px] border-[2px] border-purple-600">
@@ -50,14 +64,19 @@ const onOptionSelect = (isCorrect) => {
 			</div>
 		</header>
 
-		<div class="mt-4">
+		<div class="mt-4" v-motion :initial="{}">
 			<Question
 				v-if="!ishowResults"
+				v-motion
+				:leave="{ x: -400, opacity: 0 }"
 				:quiz="quiz.questions[currentQuestionindex]"
 				@selectOption="onOptionSelect" />
-			<div v-else class="w-full flex flex-col justify-center items-center">
-				<div class="flex flex-col">
-					<h4 class="text-5xl">Result</h4>
+			<div
+				v-motion-slide-right
+				v-else
+				class="w-full flex flex-col justify-center items-center">
+				<div class="flex flex-col items-center">
+					<h4 class="text-5xl">Your result...</h4>
 					<span class="text-6xl mt-8"
 						>{{ answercorrect }} / {{ quiz.questions.length }}</span
 					>
@@ -72,8 +91,9 @@ const onOptionSelect = (isCorrect) => {
 
 		<button
 			v-if="!ishowResults"
+			v-motion
 			@click="handleNext"
-			class="mt-6 text-white rounded-md bg-purple-500 px-2 py-1">
+			class="mt-6 text-white rounded-md bg-purple-500 px-2 py-1 hover:bg-purple-600 font-bold border border-purple-700 hover:border-purple-800 shadow-md hover:shadow-lg">
 			Next question
 		</button>
 	</div>

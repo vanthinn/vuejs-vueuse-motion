@@ -93,7 +93,218 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4,
+                "text": "Nếu 5 con mèo có thể bắt 5 con chuột trong 5 phút, cần có bao nhiêu con mèo để bắt được 100 con chuột trong 100 phút?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "5",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Cho A = {1; 2; 4; 5} và B = {–2; –1; 0; 1; 2}. Khi đó A ∪ B là tập hợp:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "{1; 2};",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "{–2; –1; 0; 1; 2; 4; 5};",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "{4; 5};",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "{–2; –1; 0}",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Một lớp học có 25 học sinh giỏi môn Toán, 23 học sinh giỏi môn Lý, 14 học sinh giỏi cả môn Toán và Lý và có 6 học sinh không giỏi môn nào cả. Hỏi lớp đó có bao nhiêu học sinh?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "54",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "44",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "40",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "50",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Trong các cặp số sau, cặp số nào là một nghiệm của bất phương trình 2x + 5y – 7 < 0?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " (–5; 2)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "(5; 2)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "(2; 5)",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "(–2; 5)",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Điều kiện của m để hàm số y = (m – 1)x2 + 2mx – m2 + 4 là hàm số bậc hai là:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " m ≥ 1",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": " m > 1;  ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "m < 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": " m ≠ 1",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": " Cho A = {1; 2; 4; 5} và B = {–2; –1; 0; 1; 2}. Khi đó A \\ B là tập hợp:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "{4; 5}",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": " {–2; –1; 0}",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "{1; 2}",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "{–2; –1; 0; 1; 2; 4; 5}",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "55-43 * 2 + 1234",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1203",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1212",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1234",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1220",
+                        "isCorrect": false
+                    }
+                ]
             }
+            
         ]
     },
     {
@@ -103,7 +314,7 @@
         "questions": [
             {
                 "id": 1,
-                "text": "The Kreb Cycles occurs in the",
+                "text": "Chu trình Krebs xảy ra ở",
                 "options": [
                     {
                         "id": 1,
@@ -133,7 +344,7 @@
             },
             {
                 "id": 2,
-                "text": "How many oxygen molecules can hemoglobin hold",
+                "text": "Hemoglobin có thể chứa bao nhiêu phân tử oxy",
                 "options": [
                     {
                         "id": 1,
@@ -163,34 +374,245 @@
             },
             {
                 "id": 3,
-                "text": "The cones see ___ while the rods see ___",
+                "text": "Quá trình nhân đôi của ADN diễn ra ở đâu?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "black and white; color",
+                        "text": "Tế bào chất ",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "color; black and white",
+                        "text": "Nhân tế bào",
                         "isCorrect": true
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "3D objects; 2D shapes",
+                        "text": "Riboxom",
                         "isCorrect": false
                     },
                     {
                         "id": 4,
                         "label": "D",
-                        "text": "2D shapes; 3D objects",
+                        "text": "Ty thể",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Một phân tử ADN tiến hành nhân đôi liên tiếp 2 lần. Số phân tử ADN con đượctạo ra là bao nhiêu?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "7",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Hoạt động nào sau đây trong tế bào mở đầu cho quá trình dịch mã tổng hợpprôtêin?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Lắp đặt các axit amin vào ribôxôm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Tổng hợp mARN",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Hình thành liên kết peptit giữa các axitamin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hoạt hoá axit amin.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Đặc điểm thoái hoá của mã bộ ba có nghĩa là",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Một bộ ba mã hoá cho nhiều loại acid amin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Các bộ ba nằm nối tiếp nhưng không gối lên nhau",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "nhiều loại bộ ba cùng mã hoá cho một loại acid amin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "một số bộ ba cùng mang tín hiệu kết thúc dịch mã",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Có tất cả bao nhiêu loại bộ mã được sử dụng để mã hoá các acid amin?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "64",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "61",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "62",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "63",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Gene là một đoạn của phân tử ADN mang thông tin mã hóa cho",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "sản phẩm tạo nên thành phần cấu trúc",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "sản phẩm tạo nên thành phần chức năng",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "kiểm soát hoạt động của các gene khác",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "sản phẩm nhất định (chuổi polypeptid hoặc ARN)",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "text": "Đặc điểm nào dưới đây thuộc về cấu trúc của mARN?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "mARN có cấu trúc mạch kép, dạng vòng, gồm 4 loại đơn phân A, T, G, X.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": " mARN có cấu trúc mạch kép, gồm 4 loại đơn phân A, T, G, X.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "mARN có cấu trúc mạch đơn, gồm 4 loại đơn phân A, U, G, X.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "mARN có cấu trúc mạch đơn, dạng thẳng, gồm 4 loại đơn phân A, U, G, X.  ",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "text": "Làm khuôn mẫu cho quá trình phiên mã là nhiệm vụ của",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "mạch mã hoá",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "mARN",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "mạch mã gốc.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "ADN-polimeraza. ",
                         "isCorrect": false
                     }
                 ]
             }
+            
         ]
     },
     {
@@ -200,7 +622,7 @@
         "questions": [
             {
                 "id": 1,
-                "text": "What is the composition of table salt",
+                "text": "Thành phần của muối ăn là gì?",
                 "options": [
                     {
                         "id": 1,
@@ -230,7 +652,7 @@
             },
             {
                 "id": 2,
-                "text": "What is Potassium's chemical symbol",
+                "text": "kí hiệu hóa học của Kali là gì?",
                 "options": [
                     {
                         "id": 1,
@@ -260,7 +682,7 @@
             },
             {
                 "id": 3,
-                "text": "Which is not organinc",
+                "text": "Chất nào sau đây không phải là chất hưu cơ?",
                 "options": [
                     {
                         "id": 1,
@@ -287,7 +709,832 @@
                         "isCorrect": false
                     }
                 ]
+            },
+            {
+                "id": 4,
+                "text": "Hãy chọn định nghĩa chính xác nhất về oxit trong số các phương án sau:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Oxit là hợp chất của các nguyên tố, trong đó có một nguyên tố là oxi.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Oxit là hợp chất của kim loại và oxi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Oxit là hợp chất của oxi và một nguyên tố khác",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Oxit là hợp chất của phi kim và oxi",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Oxit axit nào sau đây được dùng làm chất hút ẩm (chất làm khô) trong phòng thí nghiệm?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "SO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "SO2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "N2O5",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "P2O5",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Cho 3,2g hỗn hợp CuO và Fe2O3 tác dụng hết với dung dịch HCl thu được 2 muối có tỉ lệ mol 1 : 1. Số mol HCl đã tham gia phản ứng là:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "0,1 mol",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "0,15 mol",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "0,2 mol",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "0,25 mol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Nồng độ khí CO2 trong không khí tăng làm ảnh hưởng đến môi trường là do:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Là khí độc",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Làm giảm lượng mưa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Tạo ra bụi",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Gây hiệu ứng nhà kính",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Nếu hàm lượng của sắt là 70% thì đó là oxit nào trong các oxit sau:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "FeO",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Fe2O3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Fe3O4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Không có oxit nào phù hợp",
+                        "isCorrect": false
+                    }
+                ]
             }
+            ,{
+                "id": 9,
+                "text": "Khử hoàn toàn 0,25 mol Fe3O4 bằng . Sản phẩm hơi cho hấp thụ vào 18 g dung dịch H2SO4 80%. Sau khi hấp thụ nồng độ H2SO4 là:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "20 %",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "30 %",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "40 %",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "50 %",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            ,{
+                "id": 10,
+                "text": "Khử hoàn toàn 6,4 g hỗn hợp CuO và Fe2O3 bằng H2 thấy tạo ra 1,8g H2O . Khối lượng hỗn hợp kim loại thu được là:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4,5 g",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "4,8 g",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "4,9 g",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "5,2 g",
+                        "isCorrect": false
+                    }
+                ]
+            }        
+        ]
+    },
+    {
+        "id": 4,
+        "img": "https://chuyennguyentrai.edu.vn/uploads/Trang/nangkhieu2020-2021/%C4%91%E1%BB%8Ba%20l%C3%BD/dia-ly.png",
+        "name": "Geography",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Việt Nam nằm trong múi giờ số:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "7",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "6",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Một hải lí tương ứng với bao nhiêu m?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1851m",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1852m",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1853m",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1854m",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Nhân tố nào sau đây khiến cho tỉ suất sinh cao?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Phong tục tập quán lạc hậu.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Chính sách dân số có hiệu quả.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Chiến tranh, thiên tai tự nhiên.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Đời sống ngày càng nâng cao",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Tốc độ gia tăng dân số nhanh, quy mô dân số thế giới ngày càng lớn là do",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "tỉ lệ sinh giảm.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "gia tăng tự nhiên giảm.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "tỉ lệ tử vong giảm.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "tỉ lệ tử vong tăng.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Phát biểu nào sau đây không đúng với nhân trong Trái Đất?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Nhiều Ni, Fe.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nhiệt độ rất cao.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Áp suất rất lớn.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Vật chất lỏng.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Động đất và núi lửa xảy ra nhiều nhất ở nơi tiếp xúc của mảng",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Thái Bình Dương với các mảng xung quanh.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Phi, các mảng nhỏ với các mảng xung quanh.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Ấn Độ - Ôxtrâylia với các mảng xung quanh.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Âu - Á, Nam Mĩ với các mảng xung quanh.",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Địa hình nào sau đây không phải do băng hà tạo nên?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Vịnh hẹp băng hà",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Các đá trán cừu",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Cao nguyên băng.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Hàm ếch sóng vỗ.",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Dãy núi trẻ Hi-ma-lay-a ở châu Á được hình thành do sự tiếp xúc của hai mảng kiến tạo nào sau đây?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mảng Âu-Á và mảng Thái Bình Dương",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Mảng Âu-Á và mảng Ấn Độ-Ôxtrâylia.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mảng Âu-Á và mảng Phi-lip-pin.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Mảng Âu-Á và mảng Nam Cực",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            ,{
+                "id": 9,
+                "text": "Giờ địa phương giống nhau tại các địa điểm cùng ở trên cùng một",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "vĩ tuyến",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "lục địa",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": " kinh tuyến",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "đại dương",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            ,{
+                "id": 10,
+                "text": "Hiện tượng nào sau đây là hệ quả chuyển động tự quay quanh trục của Trái Đất?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Ngày đêm dài ngắn theo mùa và theo vĩ độ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text":  "Sự lệch hướng chuyển động của các vật thể",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Chuyển động biểu kiến năm của Mặt Trời.",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Các mùa trong năm có khí hậu khác nhau",
+                        "isCorrect": false
+                    }
+                ]
+            }        
+        ]
+    },
+
+    {
+        "id": 5,
+        "img": "https://luathoangphi.vn/wp-content/uploads/2021/12/vi-sao-phai-hoc-lich-su.jpg",
+        "name": "History",
+        "questions": [
+            {
+                "id": 1,
+                "text": "Tổ chức nào sau đây không thuộc Liên hợp quốc?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NATO",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "WTO",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "UNICEF",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "UNESCO",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Hội nghị Ianta được triệu tập vào thời điểm nào của cuộc Chiến tranh thế giới thứ hai (1939 – 1945)?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Chiến tranh thế giới thứ hai đã kết thúc",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc.",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Chiến tranh thế giới thứ hai bước vào giai đoạn ác liệt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Chiến tranh thế giới thứ hai bùng nổ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Theo quyết định của hội nghị Ianta (2-1945), quốc gia nào cần phải trở thành một quốc gia thống nhất và dân chủ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Trung Quốc",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Triều Tiên",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Mông Cổ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Đức",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "Kế hoạch 5 năm khôi phục kinh tế sau chiến tranh ở Liên Xô diễn ra trong khoảng thời gian nào ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " 1945 – 1949",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1947-1951",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "1946- 1950",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "1945- 1951",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "text": "Tên các vị tổng thống Mĩ từ năm 1945 đến đầu những năm 70 của thế kỉ XX là",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Truman, Aixenhao, Giônxơn, Níchxơn, Biđen",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Truman, Rigân, Giônxơn, Níchxơn, Pho",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rudơven, Aixenhao, Kennơđi, Giônxơn, Níchxơn",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Truman, Aixenhao, Kennơđi, Giônxơn, Níchxơn",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "text": "Tổng thống nào của Mĩ đã phát động Chiến tranh lạnh?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Aixenhao ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Truman",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Kennơdi   ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Nichxơn",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "text": "Các nước Mĩ Latinh nằm chủ yếu ở khu vực nào của châu Mĩ?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Bắc Mĩ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Bắc và Nam Mĩ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Nam Mĩ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Trung và Nam Mĩ",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "text": "Phong trào giải phóng dân tộc ở Mĩ Latinh không diễn ra dưới hình thức nào?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Đấu tranh vũ trang",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Đấu tranh ngoại giao",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Đấu tranh nghị trường",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Bãi công chính trị",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            ,{
+                "id": 9,
+                "text": "Sự phát triển 'thần kì' của nền kinh tế Nhật Bản bắt đầu trong khoảng thời gian nào?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Những năm 50 của thế kỉ XX",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Những năm 70 của thế kỉ XX",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Những năm 60 của thế kỉ XX",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Những năm 80 của thế kỉ XX",
+                        "isCorrect": false
+                    }
+                ]
+            }
+            ,{
+                "id": 10,
+                "text": "Từ những năm 80 của thế kỉ XX, Nhật Bản đã vươn lên thành siêu cường số một thế giới về",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "công nghiệp",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text":  "tài chính",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "kinh tế",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "quân sự",
+                        "isCorrect": false
+                    }
+                ]
+            }        
         ]
     }
 ]

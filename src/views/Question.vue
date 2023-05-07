@@ -10,7 +10,9 @@ const emitSelectOption = (isCorrect) => {
 </script>
 
 <template>
-	<h2 class="text-3xl mb-6">{{ quiz.text }}</h2>
+	<h2 class="text-3xl mb-6">
+		{{ quiz.text }}
+	</h2>
 	<div class="flex flex-col gap-4 mb-2">
 		<div
 			v-for="option in quiz.options"

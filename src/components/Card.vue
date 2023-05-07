@@ -12,10 +12,17 @@ const navigateTo = () => {
 <template>
 	<div
 		@click="navigateTo"
-		class="bg-white rounded-md w-[300px] overflow-hidden shadow-2xl hover:cursor-pointer hover:border-[2px] hover:border-purple-500">
-		<img class="" :src="quiz.img" alt="img" />
-		<div class="ml-2">
-			<h2 class="font-semibold text-xl pt-1">{{ quiz.name }}</h2>
+		v-motion
+		:hovered="{
+			scale: 1.1,
+		}"
+		class="bg-white rounded-md flex flex-col w-[300px] overflow-hidden shadow-2xl cursor-pointer h-[230px]">
+		<img
+			class="h-[75%] w-full object-cover top-0 right-0"
+			:src="quiz.img"
+			alt="img" />
+		<div class="ml-2 flex flex-col justify-center">
+			<h2 class="font-semibold text-xl">{{ quiz.name }}</h2>
 			<p class="font-thin">{{ quiz.questions.length }} questions</p>
 		</div>
 	</div>
